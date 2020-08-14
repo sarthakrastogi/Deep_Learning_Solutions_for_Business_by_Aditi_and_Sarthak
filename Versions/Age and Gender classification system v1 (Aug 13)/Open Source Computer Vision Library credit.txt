@@ -1,0 +1,2 @@
+Our application uses Haar Cascades (we found it faster to train with).
+It is open source and free to use.
