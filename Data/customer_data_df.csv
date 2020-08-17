@@ -1,0 +1,13 @@
+,customer_name,age,gender,payment_method,purchases
+0,Adil,25,Male,cash,NULL
+1,Amaya,32,Female,Credit Card,Shampoo LorealTR5
+2,Bhavini,23,Female,Cash,NULL
+3,Bhavy,45,Male,DebitCard,Dessert Boots
+4,Chiya,22,Female,Paytm,Wallclock
+5,Dhyan,34,male,cash,Null
+6,Dhruv,43,Male,Paytm,Pedigree
+7,Eshita,28,Female,Debitcard,Women Cycling short
+8,Gourang,34,Male,Cheque,Double Bed
+9,Raj,68,Male,Creditcard,NULL
+10,Prarthana,27,Female,Cash,Towel
+11,Tina,18,Female,Paytm,Registers
