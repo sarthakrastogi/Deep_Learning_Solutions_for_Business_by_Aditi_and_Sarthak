@@ -1,4 +1,0 @@
-The dataset was jointly made by IMDB and Wiki.
-We have used the IMDB dataset (faces only) for our training.
-
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
