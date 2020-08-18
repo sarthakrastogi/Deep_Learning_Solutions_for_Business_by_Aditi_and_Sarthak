@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Recommendor System</title>
+    </head>
+  <body>
+    <div class="container">
+    <nav class="navbar navbar-light bg-light">
+      <h3><a style="color:rgb(0, 102, 255)" class="nav-link" href="{{url_for('home')}}">Home</a></h3>
+    </nav>
+      <div>
+        {% block content %}
+        {% endblock %}
+      </div>
+    </div>
+  </body>
+</html>
